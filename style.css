@@ -1,0 +1,43 @@
+*
+{
+    margin :0;
+    padding:0;
+}
+#particles-js{
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.3),rgba(0, 0, 0,0.3)),url(na.jpg);
+    height:100vh;
+    background-size:cover;
+    background-position: center;
+}
+.logo{
+    margin-top: 25px;
+    font-size: 28px;
+    text-transform: uppercase;
+
+}
+.welcome
+{
+    margin-left: 20%;
+    margin-right: 20%;
+    position: absolute;
+    color:#fff;
+    font-family: sans-serif;
+    
+
+
+}
+.h{
+    margin-top: 225px;
+    letter-spacing: 2px;
+    font-size: 42px;
+    text-transform: uppercase;
+    color: blue;
+    
+}
+
+
+
+
+
+
